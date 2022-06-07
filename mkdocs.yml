@@ -56,20 +56,6 @@ nav:
         - 'permissions.md'
     - 'Guides':
         - "Adding Admins": 'install/#adding-an-admin'
-        - 'keybind.md'
-        - 'steamapikey.md'
-        - 'discordbot.md'
-        - 'webhook.md'
-        - 'discord-screenshots.md'
-        - 'commands.md'
-        - 'reminders.md'
-        - 'shortcuts.md'
-        - 'backups.md'
-        - 'updating.md'
-    - 'Troubleshooting':
+    - 'Gestion des erreurs':
       - 'troubleshooting.md'
-      - 'supportfile.md'
-    - 'Developer Reference':
-        - 'plugins.md'
-        - 'translating.md'
   
