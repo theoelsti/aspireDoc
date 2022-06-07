@@ -2,7 +2,7 @@
 
 Bienvenue sur la documentation ASPIRE!
 
-![image](banner.png)
+![image](assets/banner.png)
 
 Aspire est un Assistant Simplifié de génération d'Imint Report. 
 

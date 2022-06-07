@@ -55,9 +55,9 @@ nav:
     - 'install.md'
     - 'Guides':
         - "Classes": 'classes/'
-        - "Principales"
-        - "Capteurs"
-        - "Layouts"
+        - "Principales": "classes/#Main"
+        - "Capteurs": "classes/#Capteurs"
+        - "Layouts": 'classes/#Layouts'
 
     - 'Gestion des erreurs':
       - 'troubleshooting.md'
