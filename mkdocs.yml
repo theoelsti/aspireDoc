@@ -51,11 +51,13 @@ extra_css:
 nav:
     - "Index": 'index.md'
     - 'install.md'
-    - 'Configuration':
-        - 'config.md'
-        - 'permissions.md'
+
     - 'Guides':
-        - "Adding Admins": 'install/#adding-an-admin'
+        - "Classes": 'install/#adding-an-admin'
+          - "Principales"
+          - "Capteurs"
+          - "Layouts"
+          
     - 'Gestion des erreurs':
       - 'troubleshooting.md'
   
