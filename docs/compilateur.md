@@ -17,3 +17,7 @@ Il faut donc que votre code soit converti en `aspire.jar` pour pouvoir l'exécut
 ## Compiler un projet
 
     1. Cliquez droit sur le projet, puis **Export** 
+    2. Dans la fenêtre ouverte, séléctionnez **Java**, puis **Runnable JAR file**. 
+    3. Cliquez sur suivant, choisissez la configuration puis la destination, et cliquez sur **Finish**.
+
+    
