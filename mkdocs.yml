@@ -43,6 +43,8 @@ theme:
     - navigation.top
     - search.highlight
     - toc.integrate
+formats:
+  - pdf
 
 
 extra_css:
@@ -51,13 +53,12 @@ extra_css:
 nav:
     - "Index": 'index.md'
     - 'install.md'
-
     - 'Guides':
-        - "Classes": 'install/#adding-an-admin'
-          - "Principales"
-          - "Capteurs"
-          - "Layouts"
-          
+        - "Classes": 'classes/'
+        - "Principales"
+        - "Capteurs"
+        - "Layouts"
+
     - 'Gestion des erreurs':
       - 'troubleshooting.md'
   
