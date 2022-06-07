@@ -4,10 +4,7 @@ Bienvenue sur la documentation ASPIRE!
 
 ![image](https://user-images.githubusercontent.com/13604413/129143671-3ab6a643-faf0-479d-8b97-af71ffb5193c.png)
 
-
-EasyAdmin is a feature-rich and highly customisable Administration Suite for FiveM and RedM Servers.
-
-In this Wiki we explain how to Configure, use and Customize EasyAdmin to your liking, and how to expand EasyAdmin with custom features.
+Aspire est un Assistant Simplifié de génération d'Imint Report. 
 
 ## Features
 
