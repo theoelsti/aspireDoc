@@ -3,10 +3,11 @@ Usage
 
 .. _installation:
 
-Installation
+Mise en place
 ------------
 
-To use Lumache, first install it using pip:
+Afin de développer et compiler ASPIRE, vous avez besoin d'un **IDE**,
+comme `Eclipse <https://www.eclipse.org/downloads/>`_
 
 .. code-block:: console
 

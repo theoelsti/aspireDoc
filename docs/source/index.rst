@@ -1,22 +1,19 @@
-Welcome to Lumache's documentation!
+Bienvenus sur la documentation de ASPIRE!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**ASPIRE** est un programme imint réalisé dans le but 
+d'optimiser la création d'IMINT REPORT.
+Les données sont récupérées dans les différents fichiers d'images, et 
+génère alors un PPTX prêt à être annoté. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Consultez la section d':doc:`utilisation` pour + d'information
 
 .. note::
-
-   This project is under active development.
-
+   Ce projet est en développement constant.
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   utilisation
+   classes

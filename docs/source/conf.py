@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'ASPIRE'
+copyright = '2022, Armée de Terre'
+author = '61e Régiment d\'Artillerie'
 
-release = '0.1'
-version = '0.1.0'
+release = '1'
+version = '1.5.0'
 
 # -- General configuration
 
