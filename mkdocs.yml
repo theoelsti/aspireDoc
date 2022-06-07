@@ -1,8 +1,8 @@
-site_name: EasyAdmin
-site_description: EasyAdmin Documentation
+site_name: ASPIRE
+site_description: Documentation ASPIRE
 
-repo_url: "https://github.com/Blumlaut/EasyAdmin"
-edit_uri: "https://github.com/Blumlaut/EasyAdmin-docs/edit/main/docs/"
+repo_url: "https://github.com/theoelsti/ASPIRE"
+edit_uri: "https://github.com/theoelsti/aspireDoc/edit/main/docs/"
 
 markdown_extensions:
   - pymdownx.highlight:
