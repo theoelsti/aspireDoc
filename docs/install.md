@@ -1,13 +1,13 @@
-# Installing EasyAdmin
+# Configurer l'environnement de travail
 
-Install it like any other Resource.
+Téléchargez le [Code source](https://github.com/theoelsti/ASPIRE/releases) de ASPIRE sur votre ordinateur.
 
-Simply Drag&Drop your `EasyAdmin` folder into the `resources` folder of your Server.
+Téléchargez et installez [Eclipse](https://www.eclipse.org/downloads/), puis lancez-le.
 
-## Getting Started
+## Premier lancement
 
-To get started with EasyAdmin, simply copypaste this template into your `server.cfg` file.
-
+Une fois Eclipe ouvert, cliquez sur Fichier(File), puis **Importer**, et choisissez *"Projet d'un fichier ou d'une archive"*.
+Déplacez le sélécteur de fichier dans votre répertoire, et **ouvrez**
 ```
 ensure EasyAdmin
 
